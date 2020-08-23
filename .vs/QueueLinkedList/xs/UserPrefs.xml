@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{ABFE6CED-14D5-4A4F-BE02-EB7FF24A7075}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="QueueLinkedList/Program.cs">
+    <Files>
+      <File FileName="QueueLinkedList/Program.cs" Line="30" Column="50" />
+      <File FileName="QueueLinkedList/QueueLL.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QueueLinkedList" expanded="True">
+            <Node name="QueueLinkedList" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.QueueLinkedList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
